@@ -1,5 +1,6 @@
 ﻿#-- 获取bs4对象版本1.0
 #hello
+#world
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Author : Torre Yang Edit with Python3.6
